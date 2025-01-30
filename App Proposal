@@ -16,3 +16,19 @@ KEY SDGs TARGETED
     - SDG 12: Responsible Consumption & Production – Promotes environmentally friendly choices related to transportationn, energy, and consumption.
     - SDG 7: Affordable & Clean Energy – Facilitates the transition towards renewable forms of energy .
     - SDG 11: Sustainable Cities & Communities – Helps to make cities develop sustainably through smart choice of mobility and reducing energy consumption.
+
+KEY FEATURES
+
+    - Carbon Footprint Calculator
+        Users enter daily activities (transport, food, energy, shopping) to calculate emissions.
+    - Carbon Footprint Tracker
+        Users can track their greenhouse gas emmision contribution.
+    - Personalized Reduction Strategies
+        Suggests lifestyle changes, such as using public transport, reducing meat consumption, or switching to renewable energy.(if possible i'll integrate AI, if i ccan??)
+    - User Contribution Ranking 
+        Users can see how much they contribute to carbon reduction.
+    - Carbon Emission Awareness Module
+        Educates users on the consequences of carbon emissions.
+
+        
+    

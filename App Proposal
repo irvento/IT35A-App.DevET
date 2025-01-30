@@ -1,13 +1,18 @@
 "How Much Is My Carbon Footprint?"
 
-a web app that allows users to see their greenhouse gas or C0₂ contribution and suggest users informations based on their inputs.
+a web app that allows users to see their greenhouse gas or C0₂ contribution and suggest or feed users informations based on their inputs.
 
 OBJECTIVE
     
-    - Empower individuals and businesses to monitor, reduce, and offset their carbon footprint.
-    - Provides tracking of carbon emissions based on user activities.
+    - It shall empower individuals and businesses to monitor, reduce, and offset carbon footprint.
+    - It will provide tracking and showing carbon emissions based on user activities.
     - Offer actionable recommendations to encourage sustainable lifestyle choices.
     - Support global climate action (SDG 13) by reducing greenhouse gas emissions.
     - Promote responsible consumption (SDG 12) through eco-conscious decision-making.
 
 
+KEY SDGs TARGETED
+    - SDG 13: Climate Action – Reduces greenhouse gas emissions by promoting sustainable habits.
+    - SDG 12: Responsible Consumption & Production – Promotes environmentally friendly choices related to transportationn, energy, and consumption.
+    - SDG 7: Affordable & Clean Energy – Facilitates the transition towards renewable forms of energy .
+    - SDG 11: Sustainable Cities & Communities – Helps to make cities develop sustainably through smart choice of mobility and reducing energy consumption.

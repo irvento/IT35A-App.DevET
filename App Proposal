@@ -1,6 +1,7 @@
 "How Much Is My Carbon Footprint?"
 
-a web app that allows users to see their greenhouse gas or C0₂ contribution and suggest or feed users informations based on their inputs.
+A web application that allows users to see their greenhouse gas or C0₂ contribution and suggest or feed users informations based on their inputs.
+
 
 OBJECTIVE
     
@@ -12,10 +13,12 @@ OBJECTIVE
 
 
 KEY SDGs TARGETED
+
     - SDG 13: Climate Action – Reduces greenhouse gas emissions by promoting sustainable habits.
     - SDG 12: Responsible Consumption & Production – Promotes environmentally friendly choices related to transportationn, energy, and consumption.
     - SDG 7: Affordable & Clean Energy – Facilitates the transition towards renewable forms of energy .
     - SDG 11: Sustainable Cities & Communities – Helps to make cities develop sustainably through smart choice of mobility and reducing energy consumption.
+
 
 KEY FEATURES
 
@@ -27,8 +30,30 @@ KEY FEATURES
         Suggests lifestyle changes, such as using public transport, reducing meat consumption, or switching to renewable energy.(if possible i'll integrate AI, if i ccan??)
     - User Contribution Ranking 
         Users can see how much they contribute to carbon reduction.
-    - Carbon Emission Awareness Module
+    - Carbon Emission Awareness
         Educates users on the consequences of carbon emissions.
 
-        
+
+TECHNICAL ARCHITECTURE
+
+
+
+
+RESEARCH AND EVIDENCE
+    - Causes and Effects of Climate Change according to United Nations(https://www.un.org/en/climatechange/science/causes-effects-climate-change)
+        * According to it it says that "As greenhouse gas emissions blanket the Earth, they trap the sun’s heat. This leads to global warming 
+        and climate change. The world is now warming faster than at any point in recorded history. Warmer temperatures over time are changing 
+        weather patterns and disrupting the usual balance of nature. This poses many risks to human beings and all other forms of life on Earth."
     
+    - Calculate Your Carbon Footprint(https://www.nature.org/en-us/get-involved/how-to-help/carbon-footprint-calculator/#:~:text=A%20carbon%20footprint%20is%20the,highest%20rates%20in%20the%20world.)
+        * The United States has one of the greatest carbon footprints in the world, with an average of 16 tons per person. The average carbon footprint worldwide is more like 4 tons. By 2050, the average annual global carbon footprint must decrease to less than 2 tons in order to have the best chance of preventing a 2°C increase in global temperatures.
+
+    - IPCC Reports on carbon emissions & climate change.      (https://www.ipcc.ch/2021/08/09/ar6-wg1-20210809-pr)
+        * The IPCC Sixth Assessment Report (AR6, 2021) confirms that human activities have caused approximately 1.1°C of
+         global warming since pre-industrial times, with climate change impacts becoming more frequent and severe. 
+         Immediate, deep reductions in greenhouse gas emissions are necessary to limit warming to 1.5°C and prevent catastrophic consequences.
+
+    - Scientific papers on AI-powered sustainability tracking.(https://www.ipcc.ch/sr15)
+        * The IPCC Special Report on Global Warming of 1.5°C (SR15, 2018) highlights the critical importance of limiting global 
+        temperature rise to 1.5°C above pre-industrial levels to avoid severe climate impacts. Achieving this target requires rapid, 
+        unprecedented transformations in energy, land use, and industry to reduce carbon emissions by about 45% by 2030 and reach net-zero by 2050.

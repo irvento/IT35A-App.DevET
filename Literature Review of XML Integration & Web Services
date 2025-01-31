@@ -46,7 +46,7 @@ Products/Performance
 
 
     Advantages and Best Practices
-s
+
         Web Services:
         
             • Interoperability: it facilitate communication between applications that are developed and created in different languagesand platforms, according to the Amazon Web Services (n.d.).
@@ -62,8 +62,8 @@ s
         • Flexibility: Supports complex data structures for diverse applications(Li, X., & Zhang, Y., 2003).       
         • Self-Descriptive: XML documents are self-explanatory and do not require external metadata(John Kanalakis, 2023).
         • Best Practices:       
-            - Schema Validation: Use XML Schema Definitions (XSD) to validate XML document structures(Kuznetsov, E., 2005)                
-            - Efficient Parsing: Implement optimized parsing techniques to handle large XML files efficiently.(Source: docs.oracle.com)
+            - Schema Validation: Use XML Schema Definitions (XSD) to validate XML document structures(Kuznetsov, E., 2005).                
+            - Efficient Parsing: Implement optimized parsing techniques to handle large XML files efficiently.
 
     
     Evaluation of Best Practices with Examples
@@ -76,7 +76,7 @@ s
                 While both Web Services and XML Integration enhance system interoperability, their approaches differ. Web Services offer a full framework, including data formats and communication protocols, making them ideal for real-time communication and loose coupling. In contrast, XML Integration focuses on standardizing data formats, suitable for applications requiring consistent and flexible data representation without predefined transport mechanisms.
             
             - Real-World Applications            
-                E-Business: A dynamic e-commerce model leveraging XML and Web Services improves flexibility and scalability by integrating a presentation layer, Web Services layer, and data layer(Chen, Z. Y., & Yu, W. Y. ,2014)
+                E-Business: A dynamic e-commerce model leveraging XML and Web Services improves flexibility and scalability by integrating a presentation layer, Web Services layer, and data layer(Chen, Z. Y., & Yu, W. Y. ,2014).
                 Bioinformatics: Web Services facilitate data distribution and integration in bioinformatics, enabling efficient analysis and sharing of biological data(Li, X., & Zhang, Y. , 2003).
     
 
